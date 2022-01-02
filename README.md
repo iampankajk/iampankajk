@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/realpankajk" target="blank"><img src="https://img.shields.io/twitter/follow/realpankajk?logo=twitter&style=for-the-badge" alt="realpankajk" /></a> </p>
 
-- 🔭 I’m currently pursuing Full-Stack Development course **at Masai School**
+- 🔭 I’m currently working as Instructional Associate **at Masai School**
 
-- 🌱 I’m currently learning **backend development node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for help with **MERN stack project**
 
