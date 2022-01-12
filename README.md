@@ -8,15 +8,10 @@
 <p align="left"> <a href="https://twitter.com/realpankajk" target="blank"><img src="https://img.shields.io/twitter/follow/realpankajk?logo=twitter&style=for-the-badge" alt="realpankajk" /></a> </p>
 
 - 🔭 I’m currently working as Instructional Associate **at Masai School**
-
 - 🌱 I’m currently learning **React.js**
-
 - 🤝 I’m looking for help with **MERN stack project**
-
 - 👨‍💻 All of my projects are available at [iampankajk.com](iampankajk.com)
-
 - 💬 Ask me about **DSA and Frontent Development**
-
 - 📫 How to reach me **raipankaj150@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NzE9mb74hPJSADoE8xWySEM7bcgkavF0/view?usp=sharing](https://drive.google.com/file/d/1NzE9mb74hPJSADoE8xWySEM7bcgkavF0/view?usp=sharing)
