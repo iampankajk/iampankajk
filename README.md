@@ -10,7 +10,7 @@
 - 🔭 I’m currently working as Junior Developer **at Youblock**
 - 🌱 I’m currently learning **Machine Learning and AI**
 - 🤝 I’m looking for help with **MERN stack project**
-- 👨‍💻 All of my projects are available at [iampankajk.com](iampankajk.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-iampankajk.vercel.app/](iampankajk.com)
 - 💬 Ask me about **DSA and Frontent Development**
 - 📫 How to reach me **raipankaj150@gmail.com**
 
