@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/realpankajk" target="blank"><img src="https://img.shields.io/twitter/follow/realpankajk?logo=twitter&style=for-the-badge" alt="realpankajk" /></a> </p>
 
 - 🔭 I’m currently working as a Frontend Developer **at EZ Works**
-- 🌱 I’m currently learning **Machine Learning and AI**
 - 🤝 I’m looking for help with **MERN stack project**
 - 💬 Ask me about **DSA and Frontend Development**
 - 📫 How to reach me **raipankaj150@gmail.com**
