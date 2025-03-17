@@ -1,24 +1,66 @@
-<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampankajk&label=Profile%20views&color=0e75b6&style=flat" alt="iampankajk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampankajk" alt="iampankajk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/realpankajk" target="blank"><img src="https://img.shields.io/twitter/follow/realpankajk?logo=twitter&style=for-the-badge" alt="realpankajk" /></a> </p>
+## Hi there! 👋 I'm Pankaj Kumar
 
-- 🔭 I’m currently working as a Frontend Developer **at EZ Works**
-- 🤝 I’m looking for help with **MERN stack project**
-- 💬 Ask me about **DSA and Frontend Development**
-- 📫 How to reach me **raipankaj150@gmail.com**
+🚀 **Full-Stack Developer | Frontend Specialist**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NzE9mb74hPJSADoE8xWySEM7bcgkavF0/view?usp=sharing](https://drive.google.com/file/d/1NzE9mb74hPJSADoE8xWySEM7bcgkavF0/view?usp=sharing)
+I'm a passionate developer specializing in **React, Next.js, TypeScript, and Tailwind CSS**, with experience in building scalable, high-performance applications. I love solving complex problems, mentoring developers, and optimizing performance.
+
+### 💼 **Current Role**
+- **Frontend Developer at [EZ Works](https://www.ez.works/)** (Aug 2023 - Present)
+  - Led and mentored junior engineers, improving code efficiency by **30%**.
+  - Worked with backend teams to drive seamless **API integrations**.
+  - Built and optimized **key features** for better user experiences.
+  - Established a culture of **code quality, testing, and performance**.
+
+### 📌 **Previous Experience**
+- **Software Engineer at [Redbasil](https://redbasil.in/)** (Mar 2023 - Aug 2023)
+  - Developed and optimized a **B2B e-commerce platform** from scratch.
+  - Implemented **Next.js SSR**, reducing load time by **50%**.
+  - Integrated **Firebase Authentication** for seamless security.
+  
+- **Junior Developer at Youblock** (Jul 2022 - Mar 2023)
+  - Developed UI using **React.js & frontend architecture**.
+  - Created **Node.js APIs** and worked with Web3 wallets.
+  
+- **Instructional Associate at Masai School** (Dec 2021 - Jul 2022)
+  - Helped **100+ students** with DSA and frontend queries.
+  - Delivered **one-to-one and one-to-many** mentorship sessions.
+
+---
+
+### 🔥 **Tech Stack & Skills**
+#### **Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square)
+
+#### **Backend & Tools:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampankajk&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;
+![Pankaj's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iampankajk&show_icons=true&locale=en&layout=compact&theme=dracula)
+
+### 🌎 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iampankajk-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iampankajk/)
+[![GitHub](https://img.shields.io/badge/GitHub-iampankajk-181717?style=flat-square&logo=github)](https://github.com/iampankajk)
+[![Email](https://img.shields.io/badge/Email-raipankaj150@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raipankaj150@gmail.com)
+
+Let's build something amazing together! 🚀
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampankajk&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iampankajk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iampankajk&show_icons=true&locale=en&theme=dracula" alt="iampankajk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampankajk&theme=tokyonight" alt="iampankajk" /></p>
+
