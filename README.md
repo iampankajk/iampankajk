@@ -51,7 +51,7 @@ I'm a passionate developer specializing in **React, Next.js, TypeScript, and Tai
 
 ### 📊 **GitHub Stats**
 ![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampankajk&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;
-![Pankaj's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iampankajk&show_icons=true&locale=en&layout=compact&theme=dracula)
+![Pankaj's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iampankajk&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook)
 
 ### 🌎 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iampankajk-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iampankajk/)
