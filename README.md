@@ -10,25 +10,7 @@
 I'm a passionate developer specializing in **React, Next.js, TypeScript, and Tailwind CSS**, with experience in building scalable, high-performance applications. I love solving complex problems, mentoring developers, and optimizing performance.
 
 ### 💼 **Current Role**
-- **Frontend Developer at [EZ Works](https://www.ez.works/)** (Aug 2023 - Present)
-  - Led and mentored junior engineers, improving code efficiency by **30%**.
-  - Worked with backend teams to drive seamless **API integrations**.
-  - Built and optimized **key features** for better user experiences.
-  - Established a culture of **code quality, testing, and performance**.
-
-### 📌 **Previous Experience**
-- **Software Engineer at [Redbasil](https://redbasil.in/)** (Mar 2023 - Aug 2023)
-  - Developed and optimized a **B2B e-commerce platform** from scratch.
-  - Implemented **Next.js SSR**, reducing load time by **50%**.
-  - Integrated **Firebase Authentication** for seamless security.
-  
-- **Junior Developer at Youblock** (Jul 2022 - Mar 2023)
-  - Developed UI using **React.js & frontend architecture**.
-  - Created **Node.js APIs** and worked with Web3 wallets.
-  
-- **Instructional Associate at Masai School** (Dec 2021 - Jul 2022)
-  - Helped **100+ students** with DSA and frontend queries.
-  - Delivered **one-to-one and one-to-many** mentorship sessions.
+- **SDE-2 Frontend at [GradRight](https://gradright.com//)** (September 2025 - Present)
 
 ---
 
